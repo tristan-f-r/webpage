@@ -10,8 +10,7 @@
 <h1>hi! i'm <Treasure id="4dbd2da1-0880-4663-bfc7-d3d977b029b2">tristan</Treasure>!</h1>
 
 <p>
-	Here's where I keep my writings. I love ferrets*, despise LLMs, and complain quite often about
-	JavaScript*. All of my original code here is dual licensed under the MIT and Apache 2.0 licenses, <a
+	I love ferrets. All of my original code here is dual licensed under the MIT and Apache 2.0 licenses, <a
 		href="https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076"
 		>unless used for evil</a
 	>
@@ -95,13 +94,14 @@
 
 <PrivilegeReveal id="technicalPosts">
 	<h2>
-		all{#if !hasPrivilege($currentPrivileges, 'allPosts')}<span
-				class="info"
-				title="except for personal ones. youll need at least 5 Orange Things for that">*</span
-			>{/if} posts
+		all posts
 	</h2>
 
 	<div class="posts">
+		<div class="post">
+			<p>2025-08-01</p>
+			<a href="/article/tailscale-github">The refine tactic: a month of Lean4</a>
+		</div>
 		<div class="post">
 			<p>2025-01-14</p>
 			<a href="/article/a-month-of-lean">The refine tactic: a month of Lean4</a>
