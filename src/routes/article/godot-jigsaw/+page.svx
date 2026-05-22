@@ -19,7 +19,7 @@ This problem confused me for a bit, but luckily, godot makes splitting a puzzle 
 
 > Note: for simplicity, I'll be using rectangular pegs, but the same principles apply to any shape. If you want to make a PR to the example project demonstrating a different shape, I'd be happy to merge it.
 
-You can find the entire project [here (LeoDog896/godot-jigsaw)](https://github.com/LeoDog896/godot-jigsaw).
+You can find the entire project [here (tristanfr/godot-jigsaw)](https://github.com/tristanfr/godot-jigsaw).
 
 I'll be using this silly ferret image:
 

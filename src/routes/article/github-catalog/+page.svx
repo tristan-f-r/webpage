@@ -89,11 +89,11 @@ function sortRepos(a: (typeof data)[number], b: (typeof data)[number]) {
 projects.sort(sortRepos);
 forks.sort(sortRepos);
 
-let markdown = `# [leodog896.github.io](https://github.com/LeoDog896/leodog896.github.io)
+let markdown = `# [tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io)
 
 these are auto-generated lists of repositories on my account, mainly for catalogue info.
 
-looking for my website? go to [https://leodog896.com](https://leodog896.com) instead.
+looking for my website? go to [https://tristanfr.com](https://tristanfr.com) instead.
 
 ## Projects (${projects.length})
 
@@ -172,4 +172,4 @@ jobs:
 
 I'm really happy with how this turned out. Now, whenever I need to find an older project of mine, I can simply go to my main github page, which doesn't conflict with the rest of my projects.
 
-Link: https://leodog896.github.io/
+Link: https://tristan-f-r.github.io/

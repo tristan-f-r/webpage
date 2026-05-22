@@ -67,7 +67,7 @@
 	<!-- go forth and find my email -->
 
 	<ul>
-		<li><a href="https://github.com/LeoDog896">GitHub</a></li>
+		<li><a href="https://github.com/tristan-f-r">GitHub</a></li>
 	</ul>
 </PrivilegeReveal>
 
@@ -98,10 +98,6 @@
 	</h2>
 
 	<div class="posts">
-		<div class="post">
-			<p>2025-08-01</p>
-			<a href="/article/tailscale-github">The refine tactic: a month of Lean4</a>
-		</div>
 		<div class="post">
 			<p>2025-01-14</p>
 			<a href="/article/a-month-of-lean">The refine tactic: a month of Lean4</a>
